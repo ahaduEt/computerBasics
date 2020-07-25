@@ -25,7 +25,7 @@ By the end of this course, you should be able to:
 * Turning on the computer and logging on
 * The Windows screen
 * Running programs from the Start Menu
-* Minimising, maximising, moving, resizing and closing windows
+* Minimizing, maximizing, moving, resizing and closing windows
 * Logging off and shutting down your computer
 * Working with programs
 * Running multiple programs
