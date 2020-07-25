@@ -69,14 +69,3 @@ Stopping and refreshing pages
 Demystifying the Cloud
 Understanding social media platforms such as Facebook and Twitter
 Computer security best practices
-### Intended audience
-Designed for adult users who have little or no understanding of, or experience in using a computer and would like the opportunity to learn with others in a supportive and encouraging environment.
-
-### Delivery style
-Presented as practical, instructor-led computer-based training. You will have dedicated access to a computer, so you can follow instructor training and work through in-class activities.
-
-### Materials
-You will be provided with a course workbook in class.
-
-### Additional information
-Please bring a USB flash drive to class if you would like to make a copy of your work or any relevant class materials. Alternatively, you can save these to a cloud storage space or email them to your personal email address.
