@@ -1,1 +1,1 @@
-* [Oviewview](.chapters/courseOverview.md)
+* [Oviewview](./chapters/courseOverview.md)
